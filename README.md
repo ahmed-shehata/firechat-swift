@@ -38,3 +38,6 @@ This example still has some rough edges around authentication. Push through them
 
 ## License
 [MIT](http://firebase.mit-license.org)
+=======
+# firechat-swift
+Firechat based on Firebase
